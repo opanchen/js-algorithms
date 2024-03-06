@@ -14,6 +14,4 @@ function bubbleSort(arr) {
   return arr;
 }
 
-console.log(bubbleSort([3, 5, 8, 4, 2]));
-
-//todo Використання з готової бібліотеки
+// console.log(bubbleSort([3, 5, 8, 4, 2]));
