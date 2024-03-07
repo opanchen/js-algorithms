@@ -7,7 +7,7 @@ function binarySearch(arr, x) {
   let high = arr.length - 1;
   let mid = 0;
 
-  while (low < high) {
+  while (low <= high) {
     mid = Math.floor((low + high) / 2);
 
     if (arr[mid] < x) {

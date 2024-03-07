@@ -27,6 +27,6 @@ function interpolationSearch(arr, x) {
   return -1;
 }
 
-console.log(
-  interpolationSearch([1, 3, 5, 7, 9, 11, 14, 16, 18, 20, 22, 25, 28, 30], 5)
-);
+// console.log(
+//   interpolationSearch([1, 3, 5, 7, 9, 11, 14, 16, 18, 20, 22, 25, 28, 30], 5)
+// );
